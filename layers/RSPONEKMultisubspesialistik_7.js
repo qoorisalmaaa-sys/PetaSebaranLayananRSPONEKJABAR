@@ -1,0 +1,1 @@
+var json_RSPONEKMultisubspesialistik_7 = {"type":"FeatureCollection","name":"RSPONEKMultisubspesialistik_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","nama-rs":"RSUP dr. Hasan Sadikin Bandung"},"geometry":{"type":"Point","coordinates":[107.598034635079671,-6.899781656250322]}}]}
